@@ -1,0 +1,2 @@
+cvCamera
+-DCATKIN_DEVEL_PREFIX=/home/dji/catkin_ws_42/devel -DCMAKE_INSTALL_PREFIX=/home/dji/catkin_ws_42/install -G Unix Makefiles
